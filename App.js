@@ -4,3 +4,11 @@ import { registerRootComponent } from "expo"
 
 registerRootComponent(App)
 export default App
+
+{
+  /* <div>
+
+poop - cntrl + l and then cnt + / to toggle comments
+
+</div> */
+}
